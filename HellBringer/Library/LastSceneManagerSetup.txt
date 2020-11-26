@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Scenes/crypt.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
